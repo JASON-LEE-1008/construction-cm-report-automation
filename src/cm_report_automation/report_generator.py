@@ -142,9 +142,10 @@ def _format_currency(value: float | None) -> str:
 def _format_number(value: float | None) -> str:
     if value is None:
         return "N/A"
-    if value.is_integer():
-        return f"{value:,.0f}"
-    return f"{value:,.2f}"
+    numeric_value = float(value)
+    if numeric_value.is_integer():
+        return f"{numeric_value:,.0f}"
+    return f"{numeric_value:,.2f}"
 
 
 def _format_percent(value: float | None) -> str:
