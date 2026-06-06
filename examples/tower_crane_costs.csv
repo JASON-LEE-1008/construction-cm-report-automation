@@ -1,0 +1,5 @@
+category,item,base_year,base_price,target_year,target_price,unit,note,quantity
+Tower Crane,Monthly rental 12-ton class,2024,18000000,2026,20500000,month,Synthetic tower crane rental review,6
+Tower Crane,Operator standby allowance,2024,320000,2026,350000,day,Synthetic labor-related support cost,120
+Tower Crane,Mobilization and demobilization,2024,4500000,2026,4800000,trip,Synthetic logistics review item,2
+Tower Crane,Periodic safety inspection support,2024,650000,2026,690000,inspection,Synthetic safety support review,4

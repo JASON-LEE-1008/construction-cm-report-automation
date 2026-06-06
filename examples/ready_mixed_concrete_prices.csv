@@ -1,0 +1,5 @@
+category,item,base_year,base_price,target_year,target_price,unit,note,quantity
+Ready-Mixed Concrete,25 MPa concrete supply,2024,89000,2026,96000,m3,Synthetic ready-mixed concrete review,1250
+Ready-Mixed Concrete,30 MPa concrete supply,2024,97000,2026,105000,m3,Synthetic strength-grade comparison,820
+Ready-Mixed Concrete,Pump truck dispatch,2024,520000,2026,560000,day,Synthetic equipment dispatch item,18
+Ready-Mixed Concrete,Night placement surcharge,2024,14000,2026,16500,m3,Synthetic schedule-related surcharge,300

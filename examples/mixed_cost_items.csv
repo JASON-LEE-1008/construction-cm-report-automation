@@ -1,0 +1,7 @@
+category,item,base_year,base_price,target_year,target_price,unit,note,quantity
+Ready-Mixed Concrete,25 MPa concrete supply,2024,89000,2026,96000,m3,Synthetic ready-mixed concrete review item,1250
+Tower Crane,Monthly rental 12-ton class,2024,18000000,2026,20500000,month,Synthetic tower crane rental review item,6
+Material,Rebar SD400 supply,2024,940000,2026,1010000,ton,Synthetic material price review item,220
+Labor,General construction helper,2024,165000,2026,178000,person-day,Synthetic labor rate review item,480
+Equipment,Excavator 06 class rental,2024,680000,2026,720000,day,Synthetic equipment rental review item,45
+Temporary Works,Formwork plywood replacement,2024,26000,2026,24500,sheet,Synthetic temporary works review item,900
